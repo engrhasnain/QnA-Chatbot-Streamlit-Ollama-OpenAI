@@ -1,5 +1,8 @@
 # 🔍 Enhance Q&A Chatbot using OpenAI & Ollama (Streamlit App)
 
+🎥 **[Watch Demo Video](./demo.mp4)** – Click to download or view
+> Note: GitHub doesn’t support inline video playback. The video will either download or open in a new tab depending on your browser settings.
+
 This is a lightweight, customizable Q&A chatbot built with **Streamlit**, offering flexibility between using **OpenAI's powerful LLMs** (like GPT-4 and GPT-4o) and **open-source models via Ollama** (such as LLaMA3, Mistral, and Gemma2). This app is ideal for developers, educators, and enthusiasts who want to experiment with different models for generating AI-powered responses.
 
 ---
